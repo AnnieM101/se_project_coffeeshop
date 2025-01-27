@@ -1,7 +1,7 @@
 .header {
   position: relative;
   height: 800px;
-  background: center / cover no-repeat #fff url(/images/background_header.svg);
+  background: center / cover no-repeat #fff url(../images/background_header.svg);
   display: flex;
   flex-direction: column;
   padding: 30px 80px 40px;
