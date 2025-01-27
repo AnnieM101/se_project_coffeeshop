@@ -1,7 +1,6 @@
 .recipes {
   background: center / cover no-repeat #0a2750
     url(../images/background_recipes.svg);
-  height: 800px;
   padding: 100px 80px 215px;
 }
 
@@ -49,4 +48,5 @@
   color: #fff;
   justify-content: space-between;
   display: flex;
+  margin: 0;
 }
