@@ -48,7 +48,7 @@
   height: 20px;
   border-radius: 2px;
   background-color: #1878dc;
-  background-image: url(/images/check.svg);
+  background-image: url(../images/check.svg);
 }
 
 label[for="checkbox-input"] {
