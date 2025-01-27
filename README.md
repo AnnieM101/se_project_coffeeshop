@@ -1,6 +1,6 @@
-# Triple Peaks Coffee Shop
+# Coding Cafe
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+This is a portfolio project made using HTMl and CSS for a fictional coffee shop called "Coding Cafe". The project uses HTML and CSS styling to create an simple and efficient website that is user-friendly.
 
 ## Project features
 
@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Additional improvements can include adding additional pages to enhance user-experience including an online-ordering platform, online-store platform, and a more detailed about us page including locations, contact numbers, etc.
